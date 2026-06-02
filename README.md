@@ -31,3 +31,6 @@ A Python Scientific Calculator built using Tkinter.
 pip install -r requirements.txt
 python gui.py
 ```
+## Screenshot
+
+![Calculator](screenshots/calculator.png)
